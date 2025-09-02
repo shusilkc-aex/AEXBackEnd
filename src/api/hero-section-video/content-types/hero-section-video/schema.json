@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "hero_section_videos",
+  "info": {
+    "singularName": "hero-section-video",
+    "pluralName": "hero-section-videos",
+    "displayName": "HeroSectionVideo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
